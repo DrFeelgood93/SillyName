@@ -1,0 +1,11 @@
+# Lab -00- VirtualBox, Ubuntu, and Github
+
+My submission for CPSC 131 Lab 00
+
+# My Information
+
+* Name: Emad Albalas
+* CWID: 885140244
+* Email: ealbalas@csu.fullerton.edu
+
+Hello!
